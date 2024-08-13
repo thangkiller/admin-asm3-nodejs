@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/admin-asm3-nodejs/static/css/main.7d829ebd.css",
+    "main.js": "/admin-asm3-nodejs/static/js/main.0473f68c.js",
+    "static/js/422.9deae8f2.chunk.js": "/admin-asm3-nodejs/static/js/422.9deae8f2.chunk.js",
+    "index.html": "/admin-asm3-nodejs/index.html",
+    "main.7d829ebd.css.map": "/admin-asm3-nodejs/static/css/main.7d829ebd.css.map",
+    "main.0473f68c.js.map": "/admin-asm3-nodejs/static/js/main.0473f68c.js.map",
+    "422.9deae8f2.chunk.js.map": "/admin-asm3-nodejs/static/js/422.9deae8f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d829ebd.css",
+    "static/js/main.0473f68c.js"
+  ]
+}
